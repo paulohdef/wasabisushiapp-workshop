@@ -30,7 +30,7 @@ private static final long serialVersionUID = 1L;
 	private JButton botaoCliente, botaoProduto, botaoPedido;
 
 	public WasabiSushiMainFrame() {
-		super("WASABI SUSHI APP");
+		super("WASABI SUSHI TESTE APP");
 		
 		Container container = getContentPane();
 		
